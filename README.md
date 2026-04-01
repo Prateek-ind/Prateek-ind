@@ -32,8 +32,8 @@
 
 ## 📊 GitHub Stats
 
-![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek-ind&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-ind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateek-ind&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateek-ind&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400)
 
 ---
 
