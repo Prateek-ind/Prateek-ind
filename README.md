@@ -1,6 +1,6 @@
 # Hi, I'm Prateek Kumar 👋
 
-🌱 Learning HTML, CSS, JavaScript, React & Next.js
+🌱 HTML, CSS, JavaScript, React, Redux Toolkit & Next.js
 🛠 Building projects — e-commerce apps, food delivery UIs & more
 💡 Passionate about turning ideas into clean, functional web experiences
 📍 India | 🔗 [LinkedIn](https://www.linkedin.com/in/prateek-kumar-ind)
